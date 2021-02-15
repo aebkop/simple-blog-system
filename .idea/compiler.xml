@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-codegen/4.0.2/d5a49977380b691b78976a8ad86d4194f021a66c/vertx-codegen-4.0.2-processor.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-api-service/4.0.2/b1564544b276874b2322dea725f01e9137e817dd/vertx-web-api-service-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-service-proxy/4.0.2/fd6c26d1edf92d67970c3e3d27720fbf5d560543/vertx-service-proxy-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-validation/4.0.2/dfb86514731ad1ea2b5151e3ab922c48fd8531a7/vertx-web-validation-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web/4.0.2/5f86389e015d3bf7ed7c4333482fa639d1e4bcd9/vertx-web-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-json-schema/4.0.2/e161c1b97e305056bbe1e07b6aa1b8f8f641cb83/vertx-json-schema-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-web-common/4.0.2/2b88af3e07e38f6b8e549dcc4a488a5095aa374/vertx-web-common-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-auth-common/4.0.2/e854cef9c47d071f45036c8060d4d52f2452a58e/vertx-auth-common-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/4.0.2/138f6854e88799db2178486263c2bf9421d856fb/vertx-core-4.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.3/c2351800432bdbdd8284c3f5a7f0782a352aa84a/jackson-core-2.11.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.52.Final/e5701741e851d83b5ef15738f84c825ba2c0688e/netty-handler-proxy-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.52.Final/1e06a41e2b67cd6f91bf97935f4729c843ac1a57/netty-codec-http2-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.52.Final/e0d75d03edf6e4d0682c85e8b26762bcde34697d/netty-codec-http-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.1.52.Final/b246855af6653aa461698179011c825a4441c404/netty-resolver-dns-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.52.Final/eb7d4fa554f4fdc8dacb80dce7e3f806fd1dc2db/netty-handler-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.52.Final/93170f664ae83ec70c35752b91cb733f9b80bf90/netty-codec-socks-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.1.52.Final/214c0368135350fd2e92c4ab7b9b00c24a104cc4/netty-codec-dns-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.52.Final/d98ad5bb86707c3c1a7105a346119dac332bdf23/netty-codec-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.52.Final/970ee3790f504452bd32692f6b208a590c51f0ee/netty-transport-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.52.Final/fdf681985f50d84fac625df52f34b6d6cb699bda/netty-buffer-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.52.Final/1fd5a58ff5df4dc9bb3027a6fbf114767d9278d5/netty-resolver-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.52.Final/715bfadb9f3bf86da38fa12b97b4aaa9828b4789/netty-common-4.1.52.Final.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-bridge-common/4.0.2/991f11433fcf18af2063b3d314cdf6195f574bb3/vertx-bridge-common-4.0.2.jar" />
+        </processorPath>
+        <module name="starter.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
